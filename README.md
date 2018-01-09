@@ -4,7 +4,7 @@
 Bamazon is a CLI application using Node.js and MySQL that allow users to take orders and update stock items from the store's inventory.
 
 #### Assignment
-This application is an assignment for [GA Tech's Coding Boot Camp](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort
+This application is an assignment for [GA Tech's Coding Boot Camp](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
 
 ### How to Use Bamazon
 1.

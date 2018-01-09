@@ -1,6 +1,6 @@
 # Bamazon
 
-## A CLI application using Node.js and MySQL to allow users to take orders and update stock items from the store's inventory.
+## A CLI application using Node.js and MySQL that allow users to take orders and update stock items from the store's inventory.
 
 ### Instructions on How to Use the Application
 

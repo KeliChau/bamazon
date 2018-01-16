@@ -7,10 +7,7 @@ Bamazon is a CLI application using Node.js and MySQL that allow users to take or
 This application is an assignment for [GA Tech's Coding Boot Camp](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
 
 ### Visuals
-+ Screenshots
-+ Videos (views of prompts and responses after various selections)
-+ Link to Video(s)
-+ GIFs 
+![Demo](https://www.youtube.com/watch?v=fIPyV4fIGW4)
 
 ## Acknowledgments
 Tom McCarthy, Full Stack Web Developer, for his guidance on this assignment

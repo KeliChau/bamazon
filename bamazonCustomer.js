@@ -10,7 +10,7 @@ var con = mysql.createConnection({
 
 con.connect(function(err) { // leaves this js file and attempts to connect to MySQL and will return with success or error
   if (err) throw err; 
-  console.log("Connected to database");
+  console.log("Welcome to Bamazon!");
   showMenu(); // this is calling the function showMenu
 });
 
@@ -48,7 +48,7 @@ function askFirstQuestion(){
 		    	var newQuantity = result[0].stock_quantity - quantity;
 		    	var sql = "UPDATE products SET stock_quantity = " + newQuantity + " WHERE item_id = " + result[0].item_id; // update product with new stock quantity
 		    		con.query(sql, function (err, result){
-		    			console.log(result, "Updated Item Quantity: ");
+		    			console.log(result, "Updated Item Quantity: " + newQuantity);
 		    		});	
 		   		showMenu();	// restart app
 		    }else{

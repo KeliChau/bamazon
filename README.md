@@ -58,7 +58,7 @@ This application is an assignment for [GA Tech's Coding Program](https://codingb
 7. If you can't get the table to display properly after a few hours, then feel free to go back and just add `total_profit` to the `departments` table.
 
 ## Visuals
-![Alt Text](assets/visuals/Bamazon.gif)
+![Alt Text](visuals/Bamazon.gif)
 
 ## Future Development
 + Manager View

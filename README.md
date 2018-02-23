@@ -1,19 +1,19 @@
 # Bamazon
 
+## Table of Contents
++ [Overview](#overview)
++ [Assignment](#assignment)
++ [Visuals](#visuals)
++ [Future Development](#future-development)
++ [Contributing](#contributing)
++ [Acknowledgments](#acknowledgments)
++ [License](#license)
+
 ## Overview
 Bamazon is a CLI application using Node.js and MySQL that allow users to take orders and update stock items from the store's inventory.
 
-#### Assignment
-This application is an assignment for [GA Tech's Coding Boot Camp](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
-
-### Visuals
-#### Demo
-https://www.youtube.com/watch?v=fIPyV4fIGW4
-
-## Acknowledgments
-Tom McCarthy, Full Stack Web Developer and Boot Camp Tutor, for his guidance on this assignment
-
-## Future Plans
+## Assignment
+This application is an assignment for [GA Tech's Coding Program](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
 
 ### Manager View (Challenge Two)
 + Create a new Node.js application called bamazonManager.js that will run:
@@ -56,3 +56,45 @@ Tom McCarthy, Full Stack Web Developer and Boot Camp Tutor, for his guidance on 
 6. The `total_profit` column should be calculated on the fly using the difference between `over_head_costs` and `product_sales`. `total_profit` should not be stored in any database. You should use a custom alias.
 
 7. If you can't get the table to display properly after a few hours, then feel free to go back and just add `total_profit` to the `departments` table.
+
+## Visuals
+![Alt Text](assets/visuals/Bamazon.gif)
+
+## Future Development
++ Manager View
++ Supervisor View
+
+## Contributing
+1. Fork this repository
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
+
+## Acknowledgments
++ [Tom McCarthy](https://www.linkedin.com/in/tom-mccarthy-13961095), Full Stack Developer
+
+## License 
+#### MIT License
+
+##### Copyright (c) 2018 Keli Chau
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### [:top:](#Bamazon)
